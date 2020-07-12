@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>托管世界</title>
+	<title>託管世界</title>
 	<script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
 	<script src="./clipboard.min.js"></script>  
 	<style>

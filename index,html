@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>托管世界</title>
+	<title>託管世界</title>
 	<script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
 	<script src="./clipboard.min.js"></script>  
 	<style>
@@ -35,17 +35,17 @@
 	<div class="box">
 		<div class="top">
 			<div class="left">
-				<a class="jilu" href="./index.html">托管记录</a>
+				<a class="jilu" href="./index.html">託管記錄</a>
 			</div>
 			<div class="right">
-				<a class="gongbu" href="./gb.html">骗子公布</a>
+				<a class="gongbu" href="./gb.html">騙子名單</a>
 			</div>
 		</div>
 		<!-- 复制list -->
 		<div class="list">
-			<div class="rows">托管人:小莫，金额:2000元，时间:07-10，状态:已归还</div>
+			<div class="rows">託管人:小莫，金額:2000元，時間:07-10，狀態:已歸還</div>
 		</div>
-		<div class="footer"><span>欢迎大家监督，以及提供信息!</span></div>
+		<div class="footer"><span>歡迎大家監督，以及提供資訊！</span></div>
 	</div>
 </body>
 </html>

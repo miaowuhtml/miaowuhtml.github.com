@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.366667,
+https://cdn.u1.huluxia.com/g4/M00/8C/AC/rBAAdl-DtM6ASjq3AA5J7MVFTW0468.jpg
+#EXTINF:5.600000,
+https://cdn.u1.huluxia.com/g4/M00/8C/AC/rBAAdl-DtNSAZv6sAAz9QIoicPo634.jpg
+#EXTINF:3.333333,
+https://cdn.u1.huluxia.com/g4/M00/8C/AC/rBAAdl-DtNuAGqF3AAjZjCsytZU860.jpg
+#EXTINF:2.466667,
+https://cdn.u1.huluxia.com/g4/M00/8C/AC/rBAAdl-DtOKAEB0EAAYVnKpG_JM804.jpg
+#EXT-X-ENDLIST
